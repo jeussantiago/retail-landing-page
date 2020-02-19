@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/retail-landing-page/static/css/main.0578a28f.chunk.css",
+    "main.js": "/retail-landing-page/static/js/main.2816c81a.chunk.js",
+    "main.js.map": "/retail-landing-page/static/js/main.2816c81a.chunk.js.map",
+    "runtime-main.js": "/retail-landing-page/static/js/runtime-main.5ea8bb9c.js",
+    "runtime-main.js.map": "/retail-landing-page/static/js/runtime-main.5ea8bb9c.js.map",
+    "static/css/2.aca86c19.chunk.css": "/retail-landing-page/static/css/2.aca86c19.chunk.css",
+    "static/js/2.23099377.chunk.js": "/retail-landing-page/static/js/2.23099377.chunk.js",
+    "static/js/2.23099377.chunk.js.map": "/retail-landing-page/static/js/2.23099377.chunk.js.map",
+    "index.html": "/retail-landing-page/index.html",
+    "precache-manifest.344364493cf81a90721e727a7603ee7f.js": "/retail-landing-page/precache-manifest.344364493cf81a90721e727a7603ee7f.js",
+    "service-worker.js": "/retail-landing-page/service-worker.js",
+    "static/css/2.aca86c19.chunk.css.map": "/retail-landing-page/static/css/2.aca86c19.chunk.css.map",
+    "static/css/main.0578a28f.chunk.css.map": "/retail-landing-page/static/css/main.0578a28f.chunk.css.map",
+    "static/js/2.23099377.chunk.js.LICENSE.txt": "/retail-landing-page/static/js/2.23099377.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/retail-landing-page/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/font-awesome.min.css": "/retail-landing-page/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ea8bb9c.js",
+    "static/css/2.aca86c19.chunk.css",
+    "static/js/2.23099377.chunk.js",
+    "static/css/main.0578a28f.chunk.css",
+    "static/js/main.2816c81a.chunk.js"
+  ]
+}
