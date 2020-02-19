@@ -1,0 +1,65 @@
+.navContainer {
+  box-shadow: none;
+  border: none;
+  /* background-color: rgb(204, 204, 204, 0.3); */
+  background-color: #fff;
+}
+
+/* .navBrandContainer {
+  border: 1px solid red;
+} */
+
+.navBrand {
+  color: royalblue;
+  font-size: 25px;
+  letter-spacing: -2px;
+  /* border: 1px solid red; */
+  margin-top: 7px;
+  cursor: pointer;
+}
+/* .navMainLinkContainer {
+  border: 1px solid red;
+} */
+
+.navMainLinkContainerBorderRight {
+  border-right: 1px solid rgb(168, 168, 168);
+  /* border:1px solid red; */
+}
+
+
+
+.navMainLinkButton {
+  border: none;
+  background-color: transparent;
+  width: 100%;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  /* border: 1px solid green; */
+  padding: 7px 20px;
+}
+
+.navMainLinkButton:focus, .navMainLinkButton:active {
+  outline: none;
+  color: royalblue;
+  border-bottom: 3px solid royalblue;
+}
+
+.navSearchIcon {
+  font-size: 50px;
+}
+
+.navSearchButton {
+  /* border: 1px solid red; */
+  padding: 5px 20px;
+  background-color: inherit;
+  color: royalblue;
+  transition: 0.3s;
+  border-radius: 3px;
+}
+
+.navSearchButton:hover {
+  color: #fff;
+  background-color: royalblue;
+}
+

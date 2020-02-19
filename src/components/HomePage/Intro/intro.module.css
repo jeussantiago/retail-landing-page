@@ -1,0 +1,154 @@
+.introCarousel {
+  /* border: 1px solid red; */
+  padding: 0;
+  margin: 20px 0;
+}
+
+.introCarouselChevron {
+  color: rgb(0, 0, 0, 0);
+  /* border: 1px solid #000; */
+}
+
+.introCarouselChevron:hover {
+  color: #000;
+}
+
+.introCarouselChevronLeft {
+  position: absolute;
+  left: 0;
+}
+
+.introCarouselChevronRight {
+  position: absolute;
+  right: 0;
+}
+
+
+.introCarouselItem {
+  /* border: 1px solid red; */
+  /* display: flex; */
+  background-color: #fff;
+}
+
+/* .introCarouselImgContainer {
+  border: 1px solid blue;
+} */
+
+.introCarouselImg {
+  /* border: 1px solid red; */
+  height: auto;
+  width: 100%;
+  /* z-index:1; */
+}
+
+.introCarouselContentContainer {
+  /* border: 1px solid green; */
+  text-align: left;
+  
+  /* padding: 20px 0; */
+}
+
+/* .introCarouselContentBannerContainer {
+  border: 1px solid blue;
+} */
+
+.introCarouselContentBanner {
+  /* border: 1px solid green; */
+  font-size: 16px;
+  font-weight: 800;
+  color: #fff;
+  letter-spacing: -1px;
+  padding: 2px 0;
+  background-color: red;
+  width: 190px;
+  text-align: center;
+}
+
+.introCarouselContentBannerBackground {
+  background-color: teal;
+}
+
+.introCarouselHeader {
+  /* border: 1px solid orange; */
+  font-weight: 600;
+  font-size: 18px;
+  margin: 20px 0;
+}
+
+.introCarouselSubHeader {
+  font-size: 16px;
+  margin-top: 0;
+}
+
+.introCarouselClothesContainer {
+  /* border: 1px solid blue; */
+  margin-top: 20px;
+}
+
+.introCarouselClothesContainer:focus {
+  outline: none;
+}
+
+.introCarouselClothesGender {
+  border: 1px solid #000;
+  padding: 10px 0;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 600;
+  display: block;
+  width: 100%;
+}
+
+.introCarouselClothesGender:focus {
+  outline: none;
+}
+
+.introCarouselImgOutfitContainer {
+  /* border: 1px solid red; */
+  font-size: 18px;
+  font-weight: 600;
+  /* margin: 20px 0; */
+}
+
+.introCarouselImgOutfitHeader {
+  /* border: 1px solid red; */
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.introCarouselImgOutfitName {
+  /* border: 1px solid blue; */
+  margin-bottom: 0;
+}
+
+/* .introCarouselImgOutfitCostContainer {
+  border: 1px solid green;
+} */
+
+.introCarouselImgOutfitCost {
+  font-size: 25px;
+}
+
+.introCarouselImgOutfitCostReduced {
+  /* border: 1px solid green; */
+  color: red;
+  font-size: 25px;
+  display: inline;
+  margin-right: 10px;
+}
+
+.introCarouselImgOutfitCostOriginal {
+  /* border: 1px solid orange; */
+  font-size: 16px;
+  display: inline;
+  text-decoration: line-through;
+}
+
+.introCarouselImgOutfitDealDuration {
+  color: red;
+  font-weight: 300;
+  font-size: 16px;
+  margin: 0;
+}

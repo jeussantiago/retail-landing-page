@@ -1,0 +1,96 @@
+.footerSection {
+  border-top: 2px solid #000;
+  padding: 40px 0;
+  /* border: 1px solid blue; */
+  /* margin-bottom: 300px; */
+}
+
+.footerCol {
+  /* border: 1px solid red; */
+  text-align: left;
+  padding: 10px 0;
+}
+
+/* .footerColTitleContainer {
+  border: 1px solid purple;
+} */
+
+.footerColTitle {
+  color: royalblue;
+  font-weight: 800;
+  font-size: 30px;
+  margin-bottom: 20px;
+  letter-spacing: -2px;
+}
+
+/* .footerColItemContainer {
+  border: 1px solid green;
+} */
+
+.footerColItemLink {
+  color: #000;
+  /* border: 1px solid blue; */
+  margin: 0;
+  font-weight: 400;
+}
+
+.footerColItemLink:hover {
+  color: royalblue;
+}
+
+/* .footerFollowRow {
+  border: 1px solid red;
+} */
+
+.footerFollowCol {
+  /* border: 1px solid blue; */
+  padding: 10px 0;
+}
+
+.footerFollowIconContainer {
+  /* border: 1px solid red; */
+  width: 50px;
+  height: 50px;
+  background-color: rgb(168, 168, 168);
+  color: #fff;
+  padding: 8px;
+}
+
+.footerFollowIconContainer:hover {
+  background-color: royalblue;
+}
+
+.footerSubScribePara {
+  font-weight: 400;
+}
+
+.footerForm {
+  /* border: 1px solid red; */
+  font-size: 14px;
+}
+
+.footerForm>input[type=text] {
+  padding: 10px 20px;
+  margin-right: 10px;
+  font-weight: 600;
+}
+
+.footerForm>input[type=text]:focus {
+  outline: none;
+}
+
+.footerForm>input[type=submit] {
+  padding: 10px 20px;
+  font-weight: 600;
+  background-color: royalblue;
+  color: #fff;
+}
+
+.footerForm>input[type=submit]:hover {
+  filter: grayscale(30%);
+}
+
+.footerForm>input[type=submit]:focus, 
+.footerForm>input[type=submit]:active {
+  outline: none
+}

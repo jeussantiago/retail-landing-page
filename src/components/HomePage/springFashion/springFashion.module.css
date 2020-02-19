@@ -1,0 +1,67 @@
+.springFashionWrapper {
+  /* border: 1px solid red; */
+  padding: 0;
+}
+
+.springFashionContainer {
+  /* border: 1px solid blue; */
+  padding: 50px 0;
+  background-color: rgb(234, 234, 234, 0.5);
+  /* border-radius: 10px; */
+}
+
+/* .springFashionHeaderContainer {
+  border: 1px solid orange;
+} */
+
+.springFashionHeader{
+  font-size: 35px;
+  font-weight: 900;
+}
+
+.springFashionInnerContainer {
+  /* border: 1px solid red; */
+  padding: 10px 0;
+}
+
+/* .springFashionColContainer {
+  border: 1px solid green;
+} */
+
+.springFashionIMGContainer {
+  /* border: 1px solid orange; */
+  margin: 30px 0;
+}
+
+.springFashionIMG{
+  height: auto;
+  width: 100%;
+}
+
+.springFashionCollectionLinkContainer {
+  /* border: 1px solid purple; */
+  padding: 10px 0;
+}
+
+.springFashionCollectionLink {
+  font-size: 20px;
+  color: #000;
+  background-color: inherit;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  border-left: none;
+  border-right: none;
+  padding: 0;
+}
+
+.springFashionCollectionLink:hover {
+  color: #000;
+  border-top-width: 2px;
+  border-bottom-width: 2px;
+}
+
+
+.springFashionCollectionLink:active, 
+.springFashionCollectionLink:focus {
+  outline: none;
+}

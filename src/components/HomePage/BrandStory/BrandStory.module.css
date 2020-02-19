@@ -1,0 +1,51 @@
+.brandContainer {
+  /* border: 1px solid red; */
+  background-image: linear-gradient(rgb(128, 128, 128, 0.5), rgb(128, 128, 128, 0.5)), url("https://images.squarespace-cdn.com/content/5a20c3fabce176d46bbf63e2/1541044208142-Q44QOVY4WFQRUE9U43NW/lauren-fleischmann-469994-unsplash.jpg?format=2500w&content-type=image%2Fjpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top 0;
+
+  margin: 20px 0;
+  padding: 50px 0;
+}
+
+.brandCol {
+  /* border: 1px solid blue; */
+  padding: 50px 0;
+}
+
+.brandHeader {
+  /* border: 1px solid green; */
+  color: #fff;
+  font-size: 75px;
+  font-weight: 600;
+  text-align: right;
+  /* padding: 0 20px; */
+}
+
+.brandSubHeader {
+  /* border: 1px solid green; */
+  color: #fff;
+  font-size: 25px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.brandButtonContainer {
+  /* border: 1px solid orange; */
+  padding: 0 15px;
+}
+
+.brandButton {
+  border: 1px solid red;
+  font-size: 40px;
+  font-weight: 600;
+  color: #fff;
+  padding: 5px 50px;
+  background-color: transparent;
+  border: 3px solid #fff;
+}
+
+.brandButton:focus {
+  outline: none;
+}
